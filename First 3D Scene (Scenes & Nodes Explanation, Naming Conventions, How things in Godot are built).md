@@ -1,7 +1,14 @@
 <img width="2533" height="1024" alt="logo_large_color_light" src="https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674" />
 
+These are the notes of this lecture of the "Learn 3D game development step by step with Godot 4 by creating 5 complete projects."
 
+## The lecture
+https://www.udemy.com/course/complete-3d-godot-4-game-development-course/learn/lecture/55988743#overview
 
+## the course
+https://www.udemy.com/course/complete-3d-godot-4-game-development-course/?couponCode=25BBPMXINACTIVE
+
+# How Godot Games are built
 Godot Games are built out of scenes think of it like a container we put things in and the things we put in there are what we see on the screen
 
 # Scenes and Nodes Explanation
@@ -54,5 +61,14 @@ now if we run the application we now should see  our floor now with our envirome
 
 # Naming Conventions
 <img width="724" height="506" alt="image" src="https://github.com/user-attachments/assets/6765b3cc-3dc2-4983-97a1-15c9e9e18c0e" />
+
+
+# Challenge Proivded by the Udemy Course
+Add a new mesh...
+Can you add a MeshInstance3D with a BoxMesh?
+
+I complete this challenge pretty much instantly all you have to do is add another MeshInstance3D and instead of setting the Mesh to PlaneMesh i set it to BoxMesh and Moved a it up a little bit!
+and instead of keeping box them being named MeshInstance3D, and MeshInstance3D2 i changed the PlaneMesh one to be called PlaneMeshInstance3D and the BoxMesh one to be Called BoxMeshInstance3D.
+
 
 
