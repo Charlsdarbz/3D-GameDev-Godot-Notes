@@ -7,7 +7,7 @@ Godot Games are built out of scenes think of it like a container we put things i
 # Scenes and Nodes Explanation
 how scenes are containers of things Nodes are the things they are containing nodes can be thought of as building blocks for our applications. And Godot has hundereds of diffrent nodes and each node has a certain kind of functionality. It has a sort of job to do that might be playing sound, displaying a texture. In the case of the Mesh3D Node this one displays 3D shapes.
 
-# Mesh Instace 3D
+# Mesh Instance 3D
 The Mesh Instance 3D has a load of properties, though, and one of the key properties is a Mesh Property. So a Mesh is some data that's used by the Mesh Instance 3D to tell it what shapes it needs to draw on the screen.
 to give a MeshInstance3D a shape click the Drop down arrow in the Inspector (The thing that holds all the propeties of the MeshInstance3D Node) and Left Click the PlaneMesh Option in the Drop down menu the PlaneMesh thing is Some data to show basically a 2D flat plane.
 
