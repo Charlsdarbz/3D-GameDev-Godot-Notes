@@ -1,4 +1,4 @@
-<img width="724" height="506" alt="image" src="https://github.com/user-attachments/assets/73c8f7e1-d309-4e77-bca0-d3b991348eb7" />Godot Games are built out of scenes think of it like a container we put things in and the things we put in there are what we see on the screen
+Godot Games are built out of scenes think of it like a container we put things in and the things we put in there are what we see on the screen
 
 # Scenes and Nodes Explanation
 how scenes are containers of things Nodes are the things they are containing nodes can be thought of as building blocks for our applications. And Godot has hundereds of diffrent nodes and each node has a certain kind of functionality. It has a sort of job to do that might be playing sound, displaying a texture. In the case of the Mesh3D Node this one displays 3D shapes.
