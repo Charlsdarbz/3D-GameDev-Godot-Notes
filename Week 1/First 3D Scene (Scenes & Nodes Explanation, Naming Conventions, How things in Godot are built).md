@@ -3,7 +3,7 @@ These are the notes of this lecture of the "Learn 3D game development step by st
 
 
 ----------------------------------------
--# grammar and formating fixed by claude
+# grammar and formating fixed by claude
 ----------------------------------------
 
 ## The lecture
