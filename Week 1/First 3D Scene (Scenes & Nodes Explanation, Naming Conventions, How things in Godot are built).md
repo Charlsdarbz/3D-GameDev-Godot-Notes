@@ -1,7 +1,10 @@
 <img width="2533" height="1024" alt="logo_large_color_light" src="https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674" />
 These are the notes of this lecture of the "Learn 3D game development step by step with Godot 4 by creating 5 complete projects."
 
-grammar and formating fixed by claude
+
+----------------------------------------
+-# grammar and formating fixed by claude
+----------------------------------------
 
 ## The lecture
 https://www.udemy.com/course/complete-3d-godot-4-game-development-course/learn/lecture/55988743#overview
