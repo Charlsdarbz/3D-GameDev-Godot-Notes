@@ -18,9 +18,9 @@ Perspective is where we're looking at 3D with Perspective which means there's de
 
 Another intresting view is Wireframe the Wireframe view shows the meshes themselves without the faces of the objects drawn this makes it easier to see how many verticies a shape / object has. verticies are the points that are connected by edges the triangles that you will see while in the wirteframe perspective on where the faces would be those are what make up the faces.
 
-V = Verticies
-E = Edges
-F = Faces
+- V = Verticies
+- E = Edges
+- F = Faces
 
 <img width="1330" height="966" alt="image" src="https://github.com/user-attachments/assets/79cf97a9-145b-4413-bf91-ca563e09adbe" />
 
