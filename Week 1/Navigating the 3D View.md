@@ -9,4 +9,5 @@ When working with large maps, ect orbiting or zooming in around a certain object
 # Diffrent Views
 To change your View you can click the ``: Perspective View`` in the top left corner of the 3D view 
 
+⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="1339" height="951" alt="image" src="https://github.com/user-attachments/assets/274eff7f-a2f4-46ae-92b2-3230ca585425" />
