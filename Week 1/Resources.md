@@ -1,35 +1,55 @@
-<img width="2533" height="1024" alt="logo_large_color_light" src="https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674" />
-These are the notes of this lecture of the "Learn 3D game development step by step with Godot 4 by creating 5 complete projects."
+![logo_large_color_light](https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674)
 
+These are the notes of this lecture of the "Learn 3D Game Development Step by Step with Godot 4 by Creating 5 Complete Projects."
 
 # About
-Building out a 3D Playground, Taking a look at what nodes are, What something called Resource are in Godot, explanation on what a scene is.
 
-# A Tree of Nodes & How Scenes work (I think)
+Building out a 3D playground, taking a look at what nodes are, what resources are in Godot, and an explanation of what a scene is.
 
-⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+# A Tree of Nodes & How Scenes Work (I Think)
 
-<img width="288" height="492" alt="image" src="https://github.com/user-attachments/assets/b1e4f77b-62ff-49f3-92bd-c018fe1034f8" />
+> ⚠️ These screenshots were taken in Godot 4.7.1 and may look different in newer versions.
 
-The screenshot above is what's known as a tree of nodes and this tree of nodes is making up our scene. adding stuff like the Enviroment, Light, Objects, a Camera, ect.
-The top node is what's known as the root node of our scene. and all the other nodes are what are known as children in this particular scene. And a scene is simply a collection ofthings that are saved into a file. When Godot runs our game, it loads up whatever scene we told it to run by default and then draws that on the screen. The things that we have inside the scene they're all nodes and each of the nodes have specific job. So the MeshInstance3D for example has the job of showing 3D shapes. The Camera3D has the job of allowing us to actually look into our world. DirectionalLight3D has the job of providing some light and so on. And that is how Godot works. You pick nodes based on what you need. You put them in the scene and Godot then does the rest. Later on, when making games you will start making multiple scenes and building those out according to the things that we need. For example, player scenes, pickup scenes, things like that. And we use those scenes inside other scenes then to build up our games.
+![Tree of nodes](https://github.com/user-attachments/assets/b1e4f77b-62ff-49f3-92bd-c018fe1034f8)
 
-⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+The screenshot above shows what's known as a **tree of nodes**, and this tree of nodes makes up our scene. It contains things like the environment, lights, objects, a camera, etc.
 
-<img width="1343" height="959" alt="image" src="https://github.com/user-attachments/assets/d7c65d58-ea83-407c-aae5-9c41e4bf80b8" />
+The top node is known as the **root node** of the scene, and all the other nodes are its **children**.
+
+A **scene** is simply a collection of things that are saved into a file. When Godot runs our game, it loads whichever scene we've set as the default and draws it on the screen.
+
+Everything inside a scene is a **node**, and every node has a specific job:
+
+- **MeshInstance3D** displays 3D models.
+- **Camera3D** lets us view the world.
+- **DirectionalLight3D** provides lighting.
+- Other nodes each have their own specialised purpose.
+
+This is the core idea behind Godot. You choose the nodes you need, place them into a scene, and Godot handles the rest.
+
+As you build larger games, you'll create many different scenes—for example:
+
+- Player scenes
+- Pickup scenes
+- Enemy scenes
+- UI scenes
+
+These scenes can then be reused inside other scenes to build your game.
+
+> ⚠️ This screenshot was taken in Godot 4.7.1 and may look different in newer versions.
+
+![Scene example](https://github.com/user-attachments/assets/d7c65d58-ea83-407c-aae5-9c41e4bf80b8)
 
 # Node Naming
 
-When Nodes are at the same level in the scene they must have Unique names and cannot be named the same.
+Nodes that share the same parent (i.e. are on the same level in the scene tree) **must have unique names**. Two sibling nodes cannot have the same name.
 
+> ⚠️ This screenshot was taken in Godot 4.7.1 and may look different in newer versions.
 
-⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+![Unique sibling names](https://github.com/user-attachments/assets/47ca98c0-fe5a-4909-8225-cb488b2c8f5c)
 
-<img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/47ca98c0-fe5a-4909-8225-cb488b2c8f5c" />
+However, if you place `Box2` inside another child node, it **can** have the same name as another node elsewhere in the tree, because they no longer share the same parent.
 
+> ⚠️ This screenshot was taken in Godot 4.7.1 and may look different in newer versions.
 
-If you for example put Box2 inside another child node then it can have the same name as a node that isn't on the same level as it
-
-
-⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
-<img width="281" height="169" alt="image" src="https://github.com/user-attachments/assets/0cf29864-6aa6-416a-bca9-c4e74d14f099" />
+![Duplicate names in different branches](https://github.com/user-attachments/assets/0cf29864-6aa6-416a-bca9-c4e74d14f099)
