@@ -40,5 +40,7 @@ Some other views we we'll be using a lot are viewing from the top, the bottom, t
 <img width="418" height="164" alt="image" src="https://github.com/user-attachments/assets/224d29fb-f19b-4b76-b176-c795d557145e" />
 
 
-
-
+## Cool Discovery
+I just found out while messing around with the like Diffrent Controls is if you are panning and you click F it snaps you back to like face a corner of a object (not sure if you need to be focused on that object)
+also if you hold down Crtl and your middle mouse button and make it back and forth it will zoom-in/out based on the direction your moving your mouse
+there was another one but i forgot what it was it was cool tho.
