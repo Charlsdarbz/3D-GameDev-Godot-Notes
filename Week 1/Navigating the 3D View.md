@@ -22,6 +22,7 @@ Another intresting view is Wireframe the Wireframe view shows the meshes themsel
 - E = Edges
 - F = Faces
 
+⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="1330" height="966" alt="image" src="https://github.com/user-attachments/assets/79cf97a9-145b-4413-bf91-ca563e09adbe" />
 
 
