@@ -20,10 +20,13 @@ The top node is what's known as the root node of our scene. and all the other no
 
 When Nodes are at the same level in the scene they must have Unique names and cannot be named the same.
 
+
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/47ca98c0-fe5a-4909-8225-cb488b2c8f5c" />
 
+
 If you for example put Box2 inside another child node then it can have the same name as a node that isn't on the same level as it
+
 
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="281" height="169" alt="image" src="https://github.com/user-attachments/assets/0cf29864-6aa6-416a-bca9-c4e74d14f099" />
