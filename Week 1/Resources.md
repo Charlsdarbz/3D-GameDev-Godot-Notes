@@ -1,7 +1,9 @@
+<img width="2533" height="1024" alt="logo_large_color_light" src="https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674" />
+These are the notes of this lecture of the "Learn 3D game development step by step with Godot 4 by creating 5 complete projects."
+
+
 # About
 Building out a 3D Playground, Taking a look at what nodes are, What something called Resource are in Godot, explanation on what a scene is.
-
-
 
 # A Tree of Nodes & How Scenes work (I think)
 
@@ -13,6 +15,8 @@ The top node is what's known as the root node of our scene. and all the other no
 
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="1343" height="959" alt="image" src="https://github.com/user-attachments/assets/d7c65d58-ea83-407c-aae5-9c41e4bf80b8" />
+
+# Node Naming
 
 When Nodes are at the same level in the scene they must have Unique names and cannot be named the same.
 
