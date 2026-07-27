@@ -1,3 +1,6 @@
+<img width="2533" height="1024" alt="logo_large_color_light" src="https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674" />
+These are the notes of this lecture of the "Learn 3D game development step by step with Godot 4 by creating 5 complete projects."
+
 # 3D View Controls
 Orbiting - Holding down middle mouse button
 Panning - Shift + Holding down middle mouse button
