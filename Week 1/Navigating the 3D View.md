@@ -25,4 +25,15 @@ Another intresting view is Wireframe the Wireframe view shows the meshes themsel
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
 <img width="1330" height="966" alt="image" src="https://github.com/user-attachments/assets/79cf97a9-145b-4413-bf91-ca563e09adbe" />
 
+Another good View is Overdraw it enables a kind of like x-ray vision with your shapes with single colors and this is pretty good when you're lining things up and you've lost a collision shape
+
+⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+<img width="1335" height="958" alt="image" src="https://github.com/user-attachments/assets/faa76ca3-672a-47f8-ae90-a03154ad7b0e" />
+
+
+Some other views we we'll be using a lot are viewing from the top, the bottom, the side and so on. if you click the ``: Perspective View`` in the top left corner of the 3D view again you'll see there's top view, bottom view, left, right, front and rear to get these to work you need to make sure you mouse is in the 3D view
+
+<img width="1384" height="957" alt="image" src="https://github.com/user-attachments/assets/4742fe71-0c53-43f6-9101-8edc3f824078" />
+
+
 
