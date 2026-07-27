@@ -35,5 +35,10 @@ Some other views we we'll be using a lot are viewing from the top, the bottom, t
 
 <img width="1384" height="957" alt="image" src="https://github.com/user-attachments/assets/4742fe71-0c53-43f6-9101-8edc3f824078" />
 
+# Default keybinds for changing to your top, bottom, left, right, views ect.
+
+<img width="418" height="164" alt="image" src="https://github.com/user-attachments/assets/224d29fb-f19b-4b76-b176-c795d557145e" />
+
+
 
 
