@@ -40,6 +40,18 @@ Some other views we we'll be using a lot are viewing from the top, the bottom, t
 <img width="418" height="164" alt="image" src="https://github.com/user-attachments/assets/224d29fb-f19b-4b76-b176-c795d557145e" />
 
 
+Unit = like the Amount you add to a Axis of a position, rotation, or scale on a object
+
+In Godot One unit is considered as One meter which is pretty coherent with most 3d modelling software for example blender where there units are meters aswell
+
+# Configuring Snapping 
+this is the snapping button you click it to toggle snapping on/off you can configure it if you click the Transform button abit to the right side of the toolbar and click Configure Snap it will open a menu that lets you configure the amount of meters it snaps for Translation Snapping and Also for Scale and Rotate Snap. it's pretty self explanitory
+
+⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+<img width="820" height="318" alt="image" src="https://github.com/user-attachments/assets/a768faf5-3598-4397-a16f-ff72af9d9968" />
+
+
+
 ## Cool Discovery
 I just found out while messing around with the like Diffrent Controls is if you are panning and you click F it snaps you back to like face a corner of a object (not sure if you need to be focused on that object)
 also if you hold down Crtl and your middle mouse button and make it back and forth it will zoom-in/out based on the direction your moving your mouse
