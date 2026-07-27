@@ -1,5 +1,5 @@
 # About
-Building out a 3D Playground, Taking a look at what nodes are, What something called Resource are in godot
+Building out a 3D Playground, Taking a look at what nodes are, What something called Resource are in Godot
 
 
 
