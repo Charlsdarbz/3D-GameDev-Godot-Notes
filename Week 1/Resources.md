@@ -1,6 +1,9 @@
 ![logo_large_color_light](https://github.com/user-attachments/assets/b97d692f-96d0-4782-91b0-831509561674)
  
 These are the notes of this lecture of "Learn 3D Game Development Step by Step with Godot 4 by Creating 5 Complete Projects."
+
+> Grammar and Spacing fixed by Claude
+
  
 # About
  
