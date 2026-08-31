@@ -54,5 +54,5 @@ this is the snapping button you click it to toggle snapping on/off you can confi
 
 ## Cool Discovery
 I just found out while messing around with the like Diffrent Controls is if you are panning and you click F it snaps you back to like face a corner of a object (not sure if you need to be focused on that object)
-also if you hold down Crtl and your middle mouse button and make it back and forth it will zoom-in/out based on the direction your moving your mouse
+also if you hold down Crtl and your middle mouse button and move it back and forth it will zoom-in/out based on the direction your moving your mouse
 there was another one but i forgot what it was it was cool tho.
