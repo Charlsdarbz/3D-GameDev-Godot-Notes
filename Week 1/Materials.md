@@ -24,7 +24,9 @@ To give **Material** color what you want to do is go down to you **Material Reso
 
 <img width="294" height="401" alt="image" src="https://github.com/user-attachments/assets/570b8032-9833-4f32-88b8-5d75d7c7b0dc" />
 
+
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+
 
 <img width="303" height="410" alt="image" src="https://github.com/user-attachments/assets/43c9c1f7-ba12-4814-bc38-098a3b967206" />
 
