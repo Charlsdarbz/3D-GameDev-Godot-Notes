@@ -11,4 +11,5 @@ A **Material** is another resource inside of the **MeshInstance3D** (Or any othe
 To add a Material to a Mesh, follow the steps shown in the **screenshot below**:
 
 ⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+
 <img width="1920" height="1080" alt="How to add a Material to a Mesh in Godot" src="https://github.com/user-attachments/assets/686f074b-7805-4f7f-b370-348b569cbb3e" />
