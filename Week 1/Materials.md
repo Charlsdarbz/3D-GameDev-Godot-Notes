@@ -30,3 +30,12 @@ To give **Material** color what you want to do is go down to you **Material Reso
 
 <img width="303" height="410" alt="image" src="https://github.com/user-attachments/assets/43c9c1f7-ba12-4814-bc38-098a3b967206" />
 
+# Saving a Material As a Resource So we can reuse them in the future
+
+To do this what you want to do is Right Click the Material Sphere looking thing of your Mesh Instance and then click Save As and make sure to put it in the resources folder.
+
+⚠️ This screenshot was taken in Godot 4.7.1 and may be different in newer versions.
+
+<img width="299" height="438" alt="image" src="https://github.com/user-attachments/assets/524107d1-6857-4579-b98a-c2e6a9ac4f7c" />
+
+
