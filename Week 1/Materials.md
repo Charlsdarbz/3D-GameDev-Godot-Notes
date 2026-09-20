@@ -6,7 +6,6 @@ These are the notes of this lecture of the "Learn 3D game development step by st
 
 # How to add a Material to A Mesh Instance
 
-----------------------------------------
 A **Material** is another resource inside of the **MeshInstance3D** (Or any other Mesh Instance I think.) resource that allows us to change a bunch of properties, such as the **color** of our **MeshInstance3D**.
 
 To add a Material to a Mesh, follow the steps shown in the **screenshot below**:
